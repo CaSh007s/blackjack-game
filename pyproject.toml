@@ -1,0 +1,11 @@
+[tool.black]
+line-length = 88
+target-version = ['py312']
+
+[tool.ruff]
+line-length = 88
+select = ["E", "W", "F", "I", "C", "B"] # Standard flakes, import sorting, etc.
+ignore = ["E501"] # Handled by black
+
+[tool.ruff.format]
+quote-style = "double"

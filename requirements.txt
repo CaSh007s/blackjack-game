@@ -1,0 +1,9 @@
+PySide6>=6.7
+pydantic>=2.8
+SQLModel>=0.0.18
+pygame>=2.6
+ruff
+black
+mypy
+pytest
+hypothesis
