@@ -43,9 +43,6 @@ python main.py
 
 ## Screenshots
 
-
-## Screenshots
-
 ![Gameplay](https://raw.githubusercontent.com/CaSh007s/blackjack-game/main/assets/gameplay.png)
 ![Win Screen](https://raw.githubusercontent.com/CaSh007s/blackjack-game/main/assets/win.png)
 
